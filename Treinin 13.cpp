@@ -2,6 +2,6 @@
 
 
 int main(){
-	printf("Olá");
+	printf("OlÃ¡ Pernacurta!!");
 	
 }
